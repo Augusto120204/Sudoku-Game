@@ -1,0 +1,34 @@
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.exe
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.deps.json
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.runtimeconfig.json
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.dll
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.Form1.resources
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.dll
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\obj\Debug\net6.0-windows\refint\Sudoku.dll
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Desktop\Clases ESPE\Semestre 3\Estructura de datos\Sudoku\Sudoku\obj\Debug\net6.0-windows\ref\Sudoku.dll
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.exe
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.deps.json
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.runtimeconfig.json
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.dll
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.Form1.resources
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.dll
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\refint\Sudoku.dll
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.genruntimeconfig.cache
+C:\Users\cesar\OneDrive\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\ref\Sudoku.dll
